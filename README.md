@@ -112,7 +112,7 @@ Make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ajinkya029/FlowCRM.git
+git clone https://github.com/ajinkya029/mern-crm.git
 cd mern-crm
 ```
 
